@@ -20,7 +20,16 @@ GradientView is a view that allow easily adding gradients to your Apps.
 
 ### Cocoapods
 
-TODO
+To integrate GradientView into your Xcode project using CocoaPods, specify it in your `Podfile`:
+
+```ruby
+platform :tvos, '11.0'
+use_frameworks!
+
+target '<Your Target Name>' do
+    pod 'ZattooGradientView', :git => 'https://github.com/zattoo/GradientView.git'
+end
+```
 
 ### Swift Package Manager
 
