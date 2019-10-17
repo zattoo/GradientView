@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GradientView",
+        "repositoryURL": "https://github.com/zattoo/GradientView.git",
+        "state": {
+          "branch": "master",
+          "revision": "99a78f89d08cbe30b981f04057a497add1464912",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
